@@ -1,2 +1,1 @@
-README test
-README test changes unit 2
+![workflow](https://github.com/mjagec/sem/actions/workflows/main.yml/badge.svg)
