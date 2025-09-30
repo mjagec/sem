@@ -1,3 +1,4 @@
-![workflow](https://github.com/mjagec/sem/actions/workflows/main.yml/badge.svg)
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/mjagec/sem/<action name taken from main.yml>/<branch>?style=flat-square)
 [![LICENSE](https://img.shields.io/github/license/mjagec/devops.svg?style=flat-square)](https://github.com/mjagec/devops/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/mjagec/sem/all.svg?style=flat-square)](https://github.com/mjagec/sem/releases)
