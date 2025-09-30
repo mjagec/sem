@@ -1,1 +1,1 @@
-README test
+![workflow](https://github.com/mjagec/sem/actions/workflows/main.yml/badge.svg)
