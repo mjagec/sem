@@ -1,1 +1,2 @@
 ![workflow](https://github.com/mjagec/sem/actions/workflows/main.yml/badge.svg)
+[![Releases](https://img.shields.io/github/release/mjagec/sem/all.svg?style=flat-square)](https://github.com/mjagec/sem/releases)
